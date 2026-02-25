@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Store:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94955642-7906-4df1-a556-04827aac95f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constants/DatabaseConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/ProductsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/readBeforeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/listeners/StoreListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/ServletCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/MyCart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ProductDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.sql" beforeDir="false" afterPath="$PROJECT_DIR$/products.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/DatabaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/DatabaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/ArabicTShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/ArabicTShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/ChineseTShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/ChineseTShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/HebrewTShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/HebrewTShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/HindiTShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/HindiTShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/Hoodie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/Hoodie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/JapaneseTShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/JapaneseTShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/Keychain.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/Keychain.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/KoreanTShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/KoreanTShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/Lanyard.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/Lanyard.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/LimitedEdHood.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/LimitedEdHood.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/MiniHelmet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/MiniHelmet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/Polo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/Polo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/SealTShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/SealTShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/TShirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/TShirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/Thermos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/Thermos.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-images/credits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/store-images/credits.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yHcVgidcQSd9yvcfjOEGuWVCfO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CartTest.executor": "Coverage",
+    "JUnit.CartTest.testHard.executor": "Run",
+    "JUnit.CartTest.testSimple.executor": "Run",
+    "JUnit.ProductsTest (1).executor": "Run",
+    "JUnit.ProductsTest (2).executor": "Coverage",
+    "JUnit.ProductsTest.executor": "Coverage",
+    "JUnit.TestDAO.executor": "Run",
+    "JUnit.TestDAO.hard.executor": "Run",
+    "JUnit.TestDAO.testSimple.executor": "Run",
+    "JUnit.TestDatabaseConnection.executor": "Coverage",
+    "JUnit.TestDatabaseConnection.testGetConnectionSuccess.executor": "Run",
+    "JUnit.readBeforeTest.executor": "Coverage",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 9.0.105.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sabaaa1/Desktop/freeuni/2025-spring/OOP/hw/oop-hw-05-sabaaa1/Store",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.105">
+    <configuration name="CartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.CartTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.ProductsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readBeforeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.readBeforeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readBeforeTest.hard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.readBeforeTest" />
+      <option name="METHOD_NAME" value="hard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readBeforeTest.testSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.readBeforeTest" />
+      <option name="METHOD_NAME" value="testSimple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.105" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.105" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Store:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Store_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a426666e-6bad-453c-832e-34afae1863cf" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50388" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Store:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CartTest" />
+        <item itemvalue="JUnit.ProductsTest" />
+        <item itemvalue="JUnit.readBeforeTest" />
+        <item itemvalue="JUnit.readBeforeTest.hard" />
+        <item itemvalue="JUnit.readBeforeTest.testSimple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94955642-7906-4df1-a556-04827aac95f4" name="Changes" comment="" />
+      <created>1749494964988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749494964988</updated>
+      <workItem from="1749494965987" duration="1892000" />
+      <workItem from="1749498907058" duration="46000" />
+      <workItem from="1749503640902" duration="1504000" />
+      <workItem from="1749595302871" duration="5224000" />
+      <workItem from="1749601429339" duration="1836000" />
+      <workItem from="1749643771636" duration="137000" />
+      <workItem from="1749643915731" duration="15588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Store$ProductsTest__1_.ic" NAME="ProductsTest (1) Coverage Results" MODIFIED="1749660462607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Store$CartTest.ic" NAME="CartTest Coverage Results" MODIFIED="1749665599080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Store$readBeforeTest.ic" NAME="readBeforeTest Coverage Results" MODIFIED="1749665582304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>DAO.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Store$ProductsTest__2_.ic" NAME="ProductsTest (2) Coverage Results" MODIFIED="1749660812936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Store$TestDatabaseConnection.ic" NAME="TestDatabaseConnection Coverage Results" MODIFIED="1749662185162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Store$ProductsTest.ic" NAME="ProductsTest Coverage Results" MODIFIED="1749665592710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Store$TestDAO.ic" NAME="TestDAO Coverage Results" MODIFIED="1749665496299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>DAO.*</FILTER>
+    </SUITE>
+  </component>
+</project>
